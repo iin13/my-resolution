@@ -2,4 +2,7 @@ step by step :
 1. learning html & css
 2. js
 3. struktur data 
-4. framework
+  * vue
+4. framework php
+  *Laravel
+5. Python
