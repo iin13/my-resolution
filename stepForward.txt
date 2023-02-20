@@ -1,4 +1,5 @@
 step by step :
 1. learning html & css
 2. js
-3. framework
+3. struktur data 
+4. framework
