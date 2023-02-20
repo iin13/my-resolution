@@ -3,6 +3,7 @@ step by step :
 2. js
 3. struktur data 
   * vue
+  *react
 4. framework php
   *Laravel
 5. Python
