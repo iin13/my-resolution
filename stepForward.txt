@@ -1,7 +1,10 @@
 step by step :
 1. learning html & css
-2. js
-  *angular
-  *react
+2. js 
 3. framework php
   *laravel
+
+  *react
+4. framework php
+  *Laravel
+5. Python
