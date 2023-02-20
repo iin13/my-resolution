@@ -1,8 +1,9 @@
 step by step :
 1. learning html & css
-2. js
-3. struktur data 
-  * vue
+2. js 
+3. framework php
+  *laravel
+
   *react
 4. framework php
   *Laravel
